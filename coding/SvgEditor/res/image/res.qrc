@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/res/image">
+        <file>arrow_svg.svg</file>
+        <file>clear_svg.svg</file>
+        <file>draw_pen.svg</file>
+        <file>ellipse_svg.svg</file>
+        <file>line_svg.svg</file>
+        <file>mouse_pen.svg</file>
+        <file>MySvg.svg</file>
+        <file>rect_svg.svg</file>
+        <file>triangles_svg.svg</file>
+        <file>textbox_svg.svg</file>
+        <file>hexagon_svg.svg</file>
+        <file>window_svg.svg</file>
+        <file>color_svg.svg</file>
+		<file>copy_svg.svg</file>
+		<file>paste_svg.svg</file>
+		<file>top_svg.svg</file>
+		<file>bottom_svg.svg</file>
+		<file>delete_svg.svg</file>
+		<file>cut_svg.svg</file>
+    </qresource>
+</RCC>
